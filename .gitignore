@@ -2,3 +2,4 @@ venv/
 user_uploads/
 __pycache__/
 .env
+config.py
